@@ -9,12 +9,15 @@ It uses wifi, and not bluetooth, however.
 
 ## Server Usage
 Usage: python server.py PORT NUM\_SLIDES
+
 Just sit this down in a terminal somewhere and fullscreen your presentation.
+
 Remember to kill it afterwards, because it's a really bad http server and will
 press space whenever somebody GETs /forwards.
 
 ## Android App Usage
 Enter your IP and port into the app and you're ready to go.
+
 If you set your slides correctly then a progress bar should appear on the app,
 allowing you to keep track of how much you've got left to waffle.
 
@@ -23,5 +26,6 @@ back.
 
 ### Dependencies
 Uses Volley on Android for the net stuff and pyautogui for the server side.
+
 I used android studio/gradle for the app part. 
 
