@@ -1,6 +1,6 @@
 # Some PPT clicker thing you can use
 [Amazon says that these are worth
-£12.](https://www.amazon.co.uk/August-Wireless-PowerPoint-Clicker-LP200-Black/dp/B00CXNQR0Y)
+£10.](https://www.amazon.co.uk/August-Wireless-PowerPoint-Clicker-LP200-Black/dp/B00CXNQR0Y)
 
 What'd you think I am, a person with a job?
 
